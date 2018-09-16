@@ -7,4 +7,4 @@ ie. Stream Class Listener
 Flatten words function
 Count_words function
 
-![] (./twitter_api.png)
+! [] (./twitter_api.png)
