@@ -6,3 +6,5 @@ but I let for all of you some objects and functions really helpful to work with 
 ie. Stream Class Listener 
 Flatten words function
 Count_words function
+
+![] (./twitter_api.png)
